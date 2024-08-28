@@ -1,6 +1,6 @@
-### Github
+# Github
 
-# Basic commands
+### Basic commands
 
 - Clone/pull
 - Add
